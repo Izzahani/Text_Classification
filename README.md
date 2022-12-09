@@ -37,9 +37,9 @@
    <ol> <strong>For target:</strong></ol>
    <ol>- One Hot Encoder is being used to convert the outputs which are politicsNews and worldnews to 1.0 and 0.1 respectively.</ol>
    
- <p>Finally, Model Development can be done if all of the steps above has already finished.</p>
+ <p>Finally, <strong>Model Development</strong> can be done if all of the steps above has already finished.</p>
  <p> In Model Development, I did train-test split. Then, i used Embedding as an input layer. For hidden layers, I used LSTM.</p>
  <p> Then, the project is being compiled. This is my result:</p>
-
+ <p><center>![img](Predictions.png)<center></p>
 ## Acknowledgement
 Special thanks to [URL](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) :smile:
