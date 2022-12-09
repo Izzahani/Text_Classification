@@ -43,7 +43,8 @@
  <img src="https://github.com/Izzahani/Text_Classification/blob/main/Predictions1.png" alt="descriptive text">
  <p>These are the graph I got from TensorBoard</p>
  <p>For Epoch Acc</p>
- 
+ <img src="https://github.com/Izzahani/Text_Classification/blob/main/epoch_acc.png" alt="descriptive text">
+
  <p>For Epoch Loss</p>
  <img src="https://github.com/Izzahani/Text_Classification/blob/main/epoch%20loss.png" alt="descriptive text">
  
