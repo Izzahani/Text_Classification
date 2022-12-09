@@ -40,6 +40,7 @@
  <p>Finally, <strong>Model Development</strong> can be done if all of the steps above has already finished.</p>
  <p> In Model Development, I did train-test split. Then, i used Embedding as an input layer. For hidden layers, I used LSTM.</p>
  <p> Then, the project is being compiled. This is my result:</p>
- <p><center>![img](Predictions.png)<center></p>
+ <img src="https://github.com/Izzahani/Text_Classification/blob/main/Predictions1.png" alt="descriptive text">
+ 
 ## Acknowledgement
 Special thanks to [URL](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) :smile:
