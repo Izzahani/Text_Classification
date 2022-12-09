@@ -41,6 +41,11 @@
  <p> In Model Development, I did train-test split. Then, i used Embedding as an input layer. For hidden layers, I used LSTM.</p>
  <p> Then, the project is being compiled. This is my result:</p>
  <img src="https://github.com/Izzahani/Text_Classification/blob/main/Predictions1.png" alt="descriptive text">
+ <p>These are the graph I got from TensorBoard</p>
+ <p>For Epoch Acc</p>
+ 
+ <p>For Epoch Loss</p>
+ <img src="https://github.com/Izzahani/Text_Classification/blob/main/epoch%20loss.png" alt="descriptive text">
  
 ## Acknowledgement
 Special thanks to [URL](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) :smile:
